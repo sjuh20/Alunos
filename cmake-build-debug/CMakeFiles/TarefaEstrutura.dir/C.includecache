@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Estudos/Documents/Arquivos/C/TarefaEstrutura/ListaDinEncad.c
+ListaDinEncad.h
+C:/Users/Estudos/Documents/Arquivos/C/TarefaEstrutura/ListaDinEncad.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+ListaDinEncad.h
+C:/Users/Estudos/Documents/Arquivos/C/TarefaEstrutura/ListaDinEncad.h
+
+C:/Users/Estudos/Documents/Arquivos/C/TarefaEstrutura/ListaDinEncad.h
+
